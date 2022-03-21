@@ -13,7 +13,7 @@ public class Asiento {
 		if (Arrays.asList(COLORES_VALIDOS).contains(color)){
 			this.color=color;	
 		}else {
-			//System.err.println("Este no es un color válido");
+			//System.err.println("Este no es un color valido");
 		}
 		
 	}
